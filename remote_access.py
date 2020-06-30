@@ -1,4 +1,3 @@
-#import ssh
 import paramiko
 import sys
 sys.path.append("/home/master/robot_framework")
